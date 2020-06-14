@@ -1,0 +1,26 @@
+[
+  {
+    "Username": "Swati",
+    "Gender": "female",
+    "DateOfBirth": "1994-02-21",
+    "Password": "password",
+    "City": "Auckland",
+    "Country": "CBD"
+  },
+  {
+    "Username": "Sam",
+    "Gender": "male",
+    "DateOfBirth": "1991-02-21",
+    "Password": "password",
+    "City": "Auckland",
+    "Country": "Mt Roskil"
+  },
+  {
+    "Username": "Rock",
+    "Gender": "male",
+    "DateOfBirth": "1990-02-25",
+    "Password": "password",
+    "City": "Auckland",
+    "Country": "Parnel"
+  }
+]
